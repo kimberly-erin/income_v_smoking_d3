@@ -1,0 +1,52 @@
+id,state,stAbbr,income,smokes
+1,Alabama,AL,42830,21.1
+2,Alaska,AK,71583,19.9
+4,Arizona,AZ,50068,16.5
+5,Arkansas,AR,41262,24.7
+6,California,CA,61933,12.9
+8,Colorado,CO,61303,15.7
+9,Connecticut,CT,70048,15.4
+10,Delaware,DE,59716,19.9
+11,Washington D.C.,DC,71648,16.4
+12,Florida,FL,47463,17.7
+13,Georgia,GA,49321,17.4
+15,Hawaii,HI,69592,14.1
+16,Idaho,ID,47861,15.9
+17,Illinois,IL,57444,16.5
+18,Indiana,IN,49446,22.9
+19,Iowa,IA,53712,18.5
+20,Kansas,KS,52504,18.1
+21,Kentucky,KY,42958,26.2
+22,Louisiana,LA,44555,24
+23,Maine,ME,49462,19.3
+24,Maryland,MD,73971,14.6
+25,Massachusetts,MA,69160,14.7
+26,Michigan,MI,49847,21.2
+27,Minnesota,MN,61481,16.3
+28,Mississippi,MS,39680,23
+29,Missouri,MO,48363,20.6
+30,Montana,MT,46328,19.9
+31,Nebraska,NE,52686,17.3
+32,Nevada,NV,51450,17
+33,New Hampshire,NH,66532,17.5
+34,New Jersey,NJ,71919,15.1
+35,New Mexico,NM,44803,19.2
+36,New York,NY,58878,14.4
+37,North Carolina,NC,46556,19.1
+38,North Dakota,ND,59029,19.9
+39,Ohio,OH,49308,21
+40,Oklahoma,OK,47529,21.1
+41,Oregon,OR,51075,17
+42,Pennsylvania,PA,53234,19.9
+44,Rhode Island,RI,54891,16.3
+45,South Carolina,SC,45238,21.5
+46,South Dakota,SD,50979,18.6
+47,Tennessee,TN,44361,24.2
+48,Texas,TX,53035,14.5
+49,Utah,UT,60922,9.7
+50,Vermont,VT,54166,16.4
+51,Virginia,VA,64902,19.5
+53,Washington,WA,61366,15.3
+54,West Virginia,WV,41059,26.7
+55,Wisconsin,WI,52622,17.4
+56,Wyoming,WY,57055,19.5
